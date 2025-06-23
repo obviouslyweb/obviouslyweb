@@ -12,4 +12,4 @@ I'm Connor Butterfield, a student at Brigham Young University-Idaho with a passi
 
 ## Social Links
 
-- [LinkedIn](Your LinkedIn Profile Link) profile
+- [LinkedIn]((https://www.linkedin.com/in/connor-butterfield-4a42b4330/)
