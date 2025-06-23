@@ -1,16 +1,15 @@
-## Hi there 👋
+# Connor Butterfield
 
-<!--
-**obviouslyweb/obviouslyweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Connor Butterfield, a student at Brigham Young University-Idaho with a passion for computer science, web design, art and music production, game design, and theme park operations.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently learning about computer science principles and languages at BYU-Idaho.
+
+## Technologies and Tools
+
+- Proficient in: C#, Python, JS, Rust
+
+## Social Links
+
+- [LinkedIn](Your LinkedIn Profile Link) profile
