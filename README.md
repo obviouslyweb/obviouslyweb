@@ -22,5 +22,6 @@ While studying Computer Science and Web Design at Brigham Young University–Ida
 Feel free to connect with me; I'm always down to chat!
 
 - [LinkedIn](https://www.linkedin.com/in/connor-butterfield-4a42b4330/)
+- [Behance](https://www.behance.net/connorbutterf#)
 
 Feel free to check out what I've made in my repositories. Not everything I've done is there, but it's a good sampling of my computer science and web design experience.
