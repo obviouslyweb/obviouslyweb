@@ -7,18 +7,20 @@ While studying Computer Science and Web Design at Brigham Young University–Ida
 ## About Me
 
 - I'm currently majoring in Computer Science at BYU-Idaho, and I'm minoring in Web Design.
+- My goals are to be able to take my knowledge of design, computers, and the arts and make something truly special. I'd love to enter the games industry, but even if I don't end up there, I want to find ways to use my talents and skills to uplift and support others.
+- Ask me about my story, my history with computers, or the various passion projects I've worked on that have taught me leadership and communication skills!
+- There are tons of other things I've made and worked on as well (such as music composition, video editing, creative writing, project management) that aren't linked to my professional accounts. Can you find them? They're out there, somewhere... waiting...
 
 ## Technologies and Tools
 
 - I'm proficient in the following languages: C#, C++, Python, JavaScript, SQL, Rust, HTML & CSS
 - I've used the following tools and programs for positions and assignments: Git / GitHub, Visual Studio Code, JetBrains Rider, MySQL Command Line &  MySQL Workbench, Microsoft Teams, Microsoft Office, Google Workspace
-- Skills: Problem-solving, project management, professional communication, task management
+- Professional Skills: Problem-solving, project management, professional communication, task management
   
 ## Social Links
 
 Feel free to connect with me; I'm always down to chat!
 
 - [LinkedIn](https://www.linkedin.com/in/connor-butterfield-4a42b4330/)
-- [Behance (Graphic Design)](https://www.behance.net/connorbutterf#)
 
 Feel free to check out what I've made in my repositories. Not everything I've done is there, but it's a good sampling of my computer science and web design experience.
