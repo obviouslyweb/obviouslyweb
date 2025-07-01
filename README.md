@@ -13,7 +13,7 @@ While studying Computer Science and Web Design at Brigham Young University–Ida
 
 ## Technologies and Tools
 
-- I'm proficient in the following languages: C#, C++, Python, JavaScript, SQL, Rust, HTML & CSS
+- I'm proficient in the following languages: C#, C++, Python, JavaScript, SQL, Java, Rust, HTML & CSS
 - I've used the following tools and programs for positions and assignments: Git / GitHub, Visual Studio Code, JetBrains Rider, MySQL Command Line &  MySQL Workbench, Microsoft Teams, Microsoft Office, Google Workspace
 - Professional Skills: Problem-solving, project management, professional communication, task management
   
