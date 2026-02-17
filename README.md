@@ -1,4 +1,4 @@
-Howdy, I'm Connor; a multidisciplinary creative and university student interested in computer science, programming, design, storytelling, and the arts. I love building cross-medium projects that inspire, connect, and make a positive impact on people's lives.
+Howdy, I'm Connor / Web; a multidisciplinary creative and university student interested in computer science, programming, design, storytelling, and the arts. I love building cross-medium projects that inspire, connect, and make a positive impact on people's lives.
 
 While studying Computer Science and Web Design at university, I've also explored graphic design, UI/UX, music production, video editing, and creative writing. Whether I'm coding an application or composing a piece of music, I strive to bring purpose, emotion, and excellence to everything I create.
 
