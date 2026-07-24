@@ -7,7 +7,5 @@ While studying Computer Science and Web Design at university, I've also explored
 - I'm proficient in the following languages and frameworks: C#, Python, JavaScript, Elixir, SQL, Express, Node.js, C++, Java, Rust, HTML & CSS
 - I've used the following tools and programs for positions and assignments: Git / GitHub, Visual Studio Code, JetBrains Rider, MySQL Command Line &  MySQL Workbench, Microsoft Teams, Microsoft Office, Google Workspace, pgAdmin 4, Cursor
 - Professional Skills: Problem-solving, project management, professional communication, task management
-  
-## Get In Touch
 
 Feel free to check out what I've made in my repositories. Not everything I've done is there and some of it is a bit old, but it's a good sampling of my computer science and web design experience. My other profile links also are connected to other portfolios of work I've done for graphic design and other projects.
